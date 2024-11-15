@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+.main__text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.main__buy{
+    width: 80%;
+}
+
+.footer__menu{
+    display: flex;
+}
+
+.footer__p1, .footer__p2, .footer__p3, .footer__p4{
+    margin: 10px;
+    color: rgb(175, 100, 225);
+} 
